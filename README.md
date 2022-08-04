@@ -63,7 +63,7 @@
 • Jupyter Notebook
 
 ## Procedures:
-Data pre-processing and cleaning
-Data exploration and visualiazation
-Utilizing logistic regression to detect fraud
-Measuring the performance of the model
+• Data pre-processing and cleaning
+• Data exploration and visualiazation
+• Utilizing logistic regression to detect fraud
+• Measuring the performance of the model
