@@ -1,4 +1,4 @@
-# Fraud_Detection_project
+# fraud_detection_project
 ## Background
 • Credit card fraud is the unauthorized use of a credit or debit card, or similar payment tool, to fraudulently obtain money or property. The purpose may be to obtain goods or services or to make payment to another account, which is controlled by a criminal
 
